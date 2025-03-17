@@ -6,37 +6,29 @@ public class colliderScript : MonoBehaviour
 {
 
     public mainScript mainScript;
+    public AudioSource wrongAudio;
+    public AudioSource goodAudio;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // check what collides with the plane
-    //void OnCollisionEnter(Collision collided)
-    //{
-    //    Debug.Log(collided.gameObject.name);
-    //    if (collided.gameObject.tag == mainScript.currValue)
-    //    {
-    //        Debug.Log("correct item");
-    //    } 
-    //    else
-    //    {
-    //        Debug.Log("incorrect item");
-    //    }
-    //}
 
     void OnTriggerEnter(Collider collided)
     {
-        Debug.Log(collided.gameObject.name);
         if (collided.gameObject.tag == mainScript.currValue)
         {
-            Debug.Log("correct item");
+           // Debug.Log("correct item");
+            mainScript.correctItem();
+            if (goodAudio && goodAudio.isPlaying == false)
+            {
+                goodAudio.Play();
+            }
         }
         else
         {
-            Debug.Log("incorrect item");
+           // Debug.Log("incorrect item");
+            if (wrongAudio && wrongAudio.isPlaying == false)
+            {
+                wrongAudio.Play();
+            }
+
         }
     }
 }
