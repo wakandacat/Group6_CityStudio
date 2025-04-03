@@ -32,7 +32,7 @@ public class mainScript : MonoBehaviour
 
         itemList = new[] { item1, item2, item3, item4 };
 
-        Invoke("StartGame", 27); //start once the timeline intro is finished
+        Invoke("StartGame", 9); //start once the timeline intro is finished
 
         Invoke("foodItems", 55); //start once the timeline intro is finished
     }
