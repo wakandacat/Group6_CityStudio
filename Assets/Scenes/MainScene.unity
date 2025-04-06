@@ -398,7 +398,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
       propertyPath: m_Name
-      value: Tuna Spread with crackers (3)
+      value: Canned Tuna
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
@@ -823,7 +823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink (5)
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -953,7 +953,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
       propertyPath: m_Name
-      value: juiceFBX (3)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
@@ -2387,7 +2387,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX (1)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -2867,7 +2867,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (4)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -3021,7 +3021,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
       propertyPath: m_Name
-      value: stroganoff_GV_LOD00 (3)
+      value: Stroganoff
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
@@ -3444,7 +3444,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (8)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -3502,6 +3502,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -3530,6 +3534,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -3540,6 +3548,10 @@ PrefabInstance:
     - target: {fileID: 1794827061643774, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
@@ -3738,7 +3750,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
       propertyPath: m_Name
-      value: can (6)
+      value: Canned Ravioli
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
@@ -4590,7 +4602,7 @@ GameObject:
   - component: {fileID: 141615045}
   - component: {fileID: 141615044}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (6)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6731,7 +6743,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -8449,6 +8461,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 104659258827450268, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 104659258827450268, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -8479,6 +8496,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218595959742927979, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 1218595959742927979, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -8489,6 +8511,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1463104299000798731, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463104299000798731, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -8496,6 +8523,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013745141629499234, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 2013745141629499234, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -8594,8 +8626,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4018927906629825584, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 4018927906629825584, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4459237288597906971, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 4459237288597906971, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -8609,6 +8651,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5170645411958768837, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5170645411958768837, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -8619,6 +8666,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5742697094225779365, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5742697094225779365, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -8626,6 +8678,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6227368478356997271, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 6227368478356997271, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -8641,6 +8698,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7096955766747846399, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 7096955766747846399, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -8952,7 +9014,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (4)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -9124,7 +9186,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Name
-      value: VanillaExtract_NoVariants (761 tris) (1)
+      value: Vanilla
       objectReference: {fileID: 0}
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Layer
@@ -9490,7 +9552,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -10500,7 +10562,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX (1)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -10875,7 +10937,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (4)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -11490,7 +11552,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
       propertyPath: m_Name
-      value: beanCanFBX (3)
+      value: Canned Beans
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -11501,6 +11563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 3995731415745809389, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -12934,7 +13001,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
       propertyPath: m_Name
-      value: cereal (2)
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
@@ -13039,7 +13106,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
       propertyPath: m_Name
-      value: Tuna Spread with crackers (2)
+      value: Canned Tuna
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
@@ -13148,7 +13215,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
       propertyPath: m_Name
-      value: can (4)
+      value: Canned Ravioli
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
@@ -13548,7 +13615,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (2)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -15452,6 +15519,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -15460,12 +15531,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
@@ -15968,7 +16047,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (1)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -16257,7 +16336,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink (2)
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -17461,7 +17540,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
       propertyPath: m_Name
-      value: Cerealbox (2)
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
@@ -17561,7 +17640,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX (5)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -18049,7 +18128,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee (5)
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -18235,7 +18314,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (3)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -19354,7 +19433,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
       propertyPath: m_Name
-      value: juiceFBX (4)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
@@ -19635,7 +19714,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
       propertyPath: m_Name
-      value: Cerealbox
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
@@ -19673,6 +19752,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1238163896}
     m_Modifications:
     - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -19681,12 +19764,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919840036046980, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1919840036046980, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
@@ -19898,7 +19989,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
       propertyPath: m_Name
-      value: can (2)
+      value: Canned Ravioli
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
@@ -20008,7 +20099,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (7)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -20526,6 +20617,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1238163896}
     m_Modifications:
     - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -20534,12 +20629,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919840036046980, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1919840036046980, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
@@ -22037,7 +22140,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 936f456fd3fb3de4ebae4dce667270d4,
         type: 3}
       propertyPath: m_Name
-      value: cutlery
+      value: Plastic Cutlery
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 936f456fd3fb3de4ebae4dce667270d4,
         type: 3}
@@ -22267,7 +22370,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -22425,7 +22528,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (2)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -22524,7 +22627,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Name
-      value: JuicePack (4)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Layer
@@ -23306,7 +23409,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17dd4148f9b478b4d9ae364e68843437,
         type: 3}
       propertyPath: m_Name
-      value: 6edd6a7953c34780a12fc8483da6ec6a
+      value: Milk
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17dd4148f9b478b4d9ae364e68843437,
         type: 3}
@@ -23774,7 +23877,7 @@ GameObject:
   - component: {fileID: 672257657}
   - component: {fileID: 672257656}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (3)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24022,7 +24125,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee (4)
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -24215,7 +24318,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
       propertyPath: m_Name
-      value: stroganoff_GV_LOD00 (2)
+      value: Stroganoff
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
@@ -24259,7 +24362,7 @@ GameObject:
   - component: {fileID: 704246848}
   - component: {fileID: 704246847}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (1)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25028,7 +25131,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -25135,7 +25238,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (7)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -26076,7 +26179,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (3)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -26392,7 +26495,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag (2)
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -27081,7 +27184,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
       propertyPath: m_Name
-      value: rtyrtyrtyrty
+      value: Tea Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
@@ -27564,7 +27667,7 @@ GameObject:
   - component: {fileID: 787746323}
   - component: {fileID: 787746322}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (7)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29362,7 +29465,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -29786,6 +29889,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -29794,12 +29901,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
+      propertyPath: m_Name
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: 81fb6a5c67691cd46a393190b476ed51, type: 3}
       propertyPath: m_Layer
@@ -30562,7 +30677,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX (4)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -31145,7 +31260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink (3)
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -31307,7 +31422,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (7)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -32568,7 +32683,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
       propertyPath: m_Name
-      value: juiceFBX
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
@@ -33614,7 +33729,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (4)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -34037,7 +34152,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (2)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -34163,7 +34278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Name
-      value: JuicePack (2)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Layer
@@ -34481,7 +34596,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (1)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -35078,7 +35193,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (1)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -35188,7 +35303,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -35370,7 +35485,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (5)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -36189,7 +36304,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag (3)
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -36946,7 +37061,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
       propertyPath: m_Name
-      value: Tuna Spread with crackers (4)
+      value: Canned Tuna
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
@@ -37446,7 +37561,7 @@ GameObject:
   - component: {fileID: 1051074831}
   - component: {fileID: 1051074830}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (5)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37867,7 +37982,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (6)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -38784,7 +38899,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (3)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -40237,7 +40352,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (4)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -40559,7 +40674,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (6)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -41824,7 +41939,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (5)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -41990,7 +42105,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (3)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -42062,6 +42177,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1279656185196179423, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
+      objectReference: {fileID: 0}
     - target: {fileID: 1421494723647274262, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42127,6 +42247,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1554630230352335307, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
+      objectReference: {fileID: 0}
     - target: {fileID: 1846159772082415983, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42142,6 +42267,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2261409866787832308, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
+      objectReference: {fileID: 0}
     - target: {fileID: 2503940634414492001, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42151,6 +42281,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2593424319463673864, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
       objectReference: {fileID: 0}
     - target: {fileID: 2729497949876046658, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
@@ -42164,13 +42299,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3270820464196060883, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
+      propertyPath: m_Name
+      value: Crackers
+      objectReference: {fileID: 0}
+    - target: {fileID: 3270820464196060883, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3270820464196060883, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 3467500953387717372, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3467500953387717372, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
       objectReference: {fileID: 0}
     - target: {fileID: 3480978640941626077, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
@@ -42199,8 +42349,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3964672734777248441, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
+      propertyPath: m_Name
+      value: Crackers
+      objectReference: {fileID: 0}
+    - target: {fileID: 3964672734777248441, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3964672734777248441, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 4054270678472954956, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
@@ -42214,8 +42374,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4394351210105222072, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
+      propertyPath: m_Name
+      value: Crackers
+      objectReference: {fileID: 0}
+    - target: {fileID: 4394351210105222072, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4394351210105222072, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 4661853446748869620, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
@@ -42267,6 +42437,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5981168495920181537, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
+      objectReference: {fileID: 0}
     - target: {fileID: 6003442416216477952, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42302,6 +42477,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7062911232494478678, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: Crackers
+      objectReference: {fileID: 0}
     - target: {fileID: 7153679147124907071, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42312,6 +42492,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7303245443067463541, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
+      objectReference: {fileID: 0}
     - target: {fileID: 7351806211635148717, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
       propertyPath: m_Layer
@@ -42321,6 +42506,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389081381887813982, guid: 7991073830153c44eabdbf83f0327523,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 7701729678039717609, guid: 7991073830153c44eabdbf83f0327523,
         type: 3}
@@ -42814,6 +43004,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 104659258827450268, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 104659258827450268, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -42844,6 +43039,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218595959742927979, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 1218595959742927979, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -42854,6 +43054,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1463104299000798731, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463104299000798731, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -42861,6 +43066,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013745141629499234, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 2013745141629499234, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -42959,8 +43169,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4018927906629825584, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 4018927906629825584, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4459237288597906971, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 4459237288597906971, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -42974,6 +43194,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5170645411958768837, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5170645411958768837, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -42984,6 +43209,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5742697094225779365, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
+      propertyPath: m_Name
+      value: Spam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5742697094225779365, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -42991,6 +43221,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6227368478356997271, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 6227368478356997271, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -43006,6 +43241,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7096955766747846399, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Spam
       objectReference: {fileID: 0}
     - target: {fileID: 7096955766747846399, guid: ec2029c5a4ddf3d4bbcc4406b33f9a9b,
         type: 3}
@@ -43208,7 +43448,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
       propertyPath: m_Name
-      value: stroganoff_GV_LOD00 (4)
+      value: Stroganoff
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
@@ -43983,7 +44223,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b0c4128aeda6e642a23a6c0dae43274,
         type: 3}
       propertyPath: m_Name
-      value: FirstAidBox (1)
+      value: First Aid Kit
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0b0c4128aeda6e642a23a6c0dae43274,
         type: 3}
@@ -44125,7 +44365,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee (3)
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -44169,7 +44409,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -44408,7 +44648,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (2)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -44518,7 +44758,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
       propertyPath: m_Name
-      value: can (3)
+      value: Canned Ravioli
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
@@ -45476,7 +45716,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (7)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -46014,7 +46254,7 @@ GameObject:
   - component: {fileID: 1265134768}
   - component: {fileID: 1265134767}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (9)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46696,7 +46936,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink (4)
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -46801,7 +47041,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Name
-      value: JuicePack
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Layer
@@ -46960,7 +47200,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX (3)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -47075,7 +47315,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
       propertyPath: m_Name
-      value: cereal
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
@@ -48023,6 +48263,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1215767532090758, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1215767532090758, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -48031,12 +48275,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913786437909736, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
       objectReference: {fileID: 0}
     - target: {fileID: 1913786437909736, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
@@ -48220,7 +48472,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
       propertyPath: m_Name
-      value: can (5)
+      value: Canned Ravioli
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 94bccf41ddca26a47871f9230e5c7ccf,
         type: 3}
@@ -48470,7 +48722,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
       propertyPath: m_Name
-      value: indomie
+      value: Instant Noodle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
@@ -49767,7 +50019,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (1)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -49927,7 +50179,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (6)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -50332,7 +50584,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (1)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -50996,7 +51248,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag (1)
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -51734,7 +51986,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX (4)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -52380,7 +52632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Name
-      value: EnergyDrink (1)
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1660274707779418, guid: 5dde715321dce0e418693105bae038f9, type: 3}
       propertyPath: m_Layer
@@ -52826,7 +53078,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17dd4148f9b478b4d9ae364e68843437,
         type: 3}
       propertyPath: m_Name
-      value: 6edd6a7953c34780a12fc8483da6ec6a (1)
+      value: Milk
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17dd4148f9b478b4d9ae364e68843437,
         type: 3}
@@ -53076,7 +53328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Name
-      value: JuicePack (3)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Layer
@@ -53853,7 +54105,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -55279,7 +55531,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX (5)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -56515,7 +56767,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
       propertyPath: m_Name
-      value: juiceFBX (1)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
@@ -56832,7 +57084,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
       propertyPath: m_Name
-      value: stroganoff_GV_LOD00 (1)
+      value: Stroganoff
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
@@ -57104,7 +57356,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -57508,7 +57760,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (9)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -57687,12 +57939,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 1238163896}
     m_Modifications:
     - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1358251671901420, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
+      propertyPath: m_Name
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1780727600467912, guid: 0b5404da58d77384eac105547be6a633, type: 3}
       propertyPath: m_Layer
@@ -58619,6 +58879,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4755254211278253038, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
+      objectReference: {fileID: 0}
     - target: {fileID: -3435279276100194387, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Layer
@@ -58627,7 +58892,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee (1)
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -58777,7 +59042,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (6)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -59220,7 +59485,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0b0c4128aeda6e642a23a6c0dae43274,
         type: 3}
       propertyPath: m_Name
-      value: FirstAidBox
+      value: First Aid Kit
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0b0c4128aeda6e642a23a6c0dae43274,
         type: 3}
@@ -60194,7 +60459,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
       propertyPath: m_Name
-      value: rtyrtyrtyrty (1)
+      value: Tea Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
@@ -60763,7 +61028,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
       propertyPath: m_Name
-      value: orgPastaFBX (2)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7d65cfd3ba9a35489aa0e4639054d22,
         type: 3}
@@ -60903,7 +61168,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
       propertyPath: m_Name
-      value: cereal (1)
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3cbd8ba87f5e8149a7943b4e3db2d85,
         type: 3}
@@ -60962,7 +61227,7 @@ GameObject:
   - component: {fileID: 1633347408}
   - component: {fileID: 1633347407}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (2)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63358,7 +63623,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
       propertyPath: m_Name
-      value: Tuna Spread with crackers (1)
+      value: Canned Tuna
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
@@ -63467,7 +63732,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
       propertyPath: m_Name
-      value: indomie (2)
+      value: Instant Noodle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
@@ -65180,7 +65445,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -65620,7 +65885,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
       propertyPath: m_Name
-      value: tea (5)
+      value: Tea
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2208d41df7b0e20458b539d897e124fc,
         type: 3}
@@ -65710,7 +65975,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
       propertyPath: m_Name
-      value: Cerealbox (1)
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 47a108fd9aa7e9a46b58a3f6c2332d9d,
         type: 3}
@@ -66409,6 +66674,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7918945848908522026, guid: 972fc5248b38cf54ea186cf7c5ee74e5,
+        type: 3}
+      propertyPath: m_Name
+      value: Backpack
       objectReference: {fileID: 0}
     - target: {fileID: -7918945848908522026, guid: 972fc5248b38cf54ea186cf7c5ee74e5,
         type: 3}
@@ -67272,7 +67542,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag (4)
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -68556,7 +68826,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
       propertyPath: m_Name
-      value: Lays_Bag (5)
+      value: Chips
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0abd1edf09a0e974c80d7f7f599e39ce,
         type: 3}
@@ -68858,7 +69128,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
       propertyPath: m_Name
-      value: juiceFBX (2)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5e7fbec8d4ce0b2479e15ecb0b51e4d6,
         type: 3}
@@ -70468,7 +70738,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
       propertyPath: m_Name
-      value: indomie (1)
+      value: Instant Noodle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: be0a9a3d819d31f4bb2d2bb599a62a20,
         type: 3}
@@ -71087,7 +71357,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
       propertyPath: m_Name
-      value: powder_coffee (2)
+      value: Instant Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e4f4bf4b3e275d4cb1053b6dd1dc007,
         type: 3}
@@ -72351,7 +72621,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
       propertyPath: m_Name
-      value: rtyrtyrtyrty (2)
+      value: Tea Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 872304eb326ab6a47bb77ad3787b32ac,
         type: 3}
@@ -74609,7 +74879,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (3)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -74863,7 +75133,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX (2)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -75468,7 +75738,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
       propertyPath: m_Name
-      value: Tuna Spread with crackers (5)
+      value: Canned Tuna
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e8042cab5dd4e464ab3f586a70cf73b9,
         type: 3}
@@ -76196,6 +76466,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -76224,6 +76498,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -76234,6 +76512,10 @@ PrefabInstance:
     - target: {fileID: 1794827061643774, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
@@ -76752,7 +77034,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
       propertyPath: m_Name
-      value: pastaFBX (2)
+      value: Dry Pasta
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08eb037ae19bd2648a06ad6b6734c390,
         type: 3}
@@ -77366,7 +77648,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
       propertyPath: m_Name
-      value: tomatoPasteFBX (5)
+      value: Canned Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f11f70f235294a84cb42d9f76555a5b2,
         type: 3}
@@ -77634,7 +77916,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Name
-      value: OliveOil_NoVariants (761 tris) (6)
+      value: Olive Oil
       objectReference: {fileID: 0}
     - target: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
       propertyPath: m_Layer
@@ -78439,7 +78721,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
       propertyPath: m_Name
-      value: pearJuiceFBX (3)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9b10b18749f65f24faf2e4ba74f56ee4,
         type: 3}
@@ -78729,7 +79011,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
       propertyPath: m_Name
-      value: stroganoff_GV_LOD00 (5)
+      value: Stroganoff
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d3c2a344108e1c428a7e72d736f2dcf,
         type: 3}
@@ -79454,7 +79736,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
       propertyPath: m_Name
-      value: water_bottle (5)
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d055fa86269851c4d979c3fe2bd81a76,
         type: 3}
@@ -79916,7 +80198,7 @@ GameObject:
   - component: {fileID: 2059908454}
   - component: {fileID: 2059908453}
   m_Layer: 0
-  m_Name: Box003_Box003_mtl_0 (4)
+  m_Name: Dry Pasta
   m_TagString: FOOD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80501,6 +80783,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -80529,6 +80815,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -80539,6 +80829,10 @@ PrefabInstance:
     - target: {fileID: 1794827061643774, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
@@ -80672,7 +80966,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Name
-      value: VanillaExtract_NoVariants (761 tris) (2)
+      value: Vanilla
       objectReference: {fileID: 0}
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Layer
@@ -80958,7 +81252,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
       propertyPath: m_Name
-      value: beanCanFBX
+      value: Canned Beans
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -80969,6 +81263,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 3995731415745809389, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -81254,7 +81553,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
       propertyPath: m_Name
-      value: beanCanFBX (4)
+      value: Canned Beans
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -81265,6 +81564,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
+        type: 3}
+      propertyPath: m_TagString
+      value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 3995731415745809389, guid: 6c0c5f36dbf0cf14ebe0374f9de5b32a,
         type: 3}
@@ -81390,7 +81694,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Name
-      value: VanillaExtract_NoVariants (761 tris)
+      value: Vanilla
       objectReference: {fileID: 0}
     - target: {fileID: 1280969666934756, guid: 6a7f9fef53fe12d4fb1f9cc72c88b568, type: 3}
       propertyPath: m_Layer
@@ -81566,6 +81870,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1215767532090758, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1215767532090758, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -81574,12 +81882,20 @@ PrefabInstance:
       value: FOOD
       objectReference: {fileID: 0}
     - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1645722994748782, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_TagString
       value: FOOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913786437909736, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
+      propertyPath: m_Name
+      value: Canned Soup
       objectReference: {fileID: 0}
     - target: {fileID: 1913786437909736, guid: 30b4fdb878d30ed4785dd14c0ec69b1c, type: 3}
       propertyPath: m_Layer
@@ -82447,6 +82763,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160756935108576, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -82475,6 +82795,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689005586593164, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
@@ -82485,6 +82809,10 @@ PrefabInstance:
     - target: {fileID: 1794827061643774, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
+      propertyPath: m_Name
+      value: Soda
       objectReference: {fileID: 0}
     - target: {fileID: 1901338691612832, guid: 46acc2e8b243bdc47bb1184ba8b1091b, type: 3}
       propertyPath: m_Layer
@@ -82938,7 +83266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Name
-      value: JuicePack (1)
+      value: Juice Box
       objectReference: {fileID: 0}
     - target: {fileID: 1444615418168096, guid: 4e3d4cb66ba4baa4ba96760c052f6311, type: 3}
       propertyPath: m_Layer

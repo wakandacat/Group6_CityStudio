@@ -15,7 +15,7 @@ public class colliderScript : MonoBehaviour
         if (collided.gameObject.tag == mainScript.currValue)
         {
            // Debug.Log("correct item");
-            mainScript.correctItem();
+            mainScript.correctItem(collided.gameObject.name);
             if (goodAudio && goodAudio.isPlaying == false)
             {
                 goodAudio.Play();

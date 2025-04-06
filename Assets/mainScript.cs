@@ -108,7 +108,7 @@ public class mainScript : MonoBehaviour
         }
     }
 
-    public void correctItem()
+    public void correctItem(string itemName)
     {
         int numCorrect = 0;
 
@@ -119,15 +119,18 @@ public class mainScript : MonoBehaviour
             {
                 if (currValue == "FOOD")
                 {
-                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Food Item";
+                    //itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Food Item";
+                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 " + itemName;
                 } 
                 else if (currValue == "WATER")
                 {
-                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Water Bottle";
+                   // itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Water Bottle";
+                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 " + itemName;
                 }
                 else if (currValue == "EQUIP")
                 {
-                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Equipment";
+                    //itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 Equipment";
+                    itemList[i].GetComponent<TextMeshProUGUI>().text = "\u00D7 " + itemName;
                 }
 
                 itemList[i].GetComponent<TextMeshProUGUI>().color = new Color32(0, 118, 6, 255);
